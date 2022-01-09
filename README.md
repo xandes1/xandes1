@@ -1,7 +1,11 @@
-### Hi there 👋
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=xandes1&theme=radical&count_private=true)'>
+
+ ### Hi there is xandes👋
+ - 🔭 普通大学生
+ - 🌱 寻找自己中
 
 <!--
-**xandes1/xandes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
