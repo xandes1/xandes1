@@ -1,8 +1,8 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=xandes1&theme=radical&count_private=true)'>
-
+<img  src='https://github-readme-stats.vercel.app/api?username=xandes1&theme=radical&count_private=true)'>
+<!-- 
  ### Hi there is xandes👋
  - 🔭 普通大学生
- - 🌱 寻找自己中
+ - 🌱 寻找自己中 -->
 
 <!--
 
